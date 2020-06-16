@@ -31,5 +31,3 @@ Execute o comando a baixo para inicializar o Projeto:
 ```sh
   $ yarn start # ou npm start
 ```
-
-Agora basta abrir o emulador pelo seu computador, ou o aplicativo do Expo no seu celular (disponível na [App Store](https://apps.apple.com/br/app/expo-client/id982107779) e na [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)).
