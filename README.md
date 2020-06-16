@@ -8,9 +8,9 @@ O mesmo tem como objetivo o estudo das tecnólogias abaixo:
 
 ## Tecnólogias
 
-NodeJs 
-API Rest Basic
-Integração com Banco de Dados PostGress
+**NodeJs** <br />
+**API Rest Basic** <br />
+**Integração com Banco de Dados PostGress**
 
 
 ## Instalação
